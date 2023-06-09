@@ -1,0 +1,129 @@
+a {
+    color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #282A3A;
+}
+
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+}
+
+.btn {
+    background: #708090;
+    background-image: -webkit-linear-gradient(top, #708090, #525d69);
+    background-image: -moz-linear-gradient(top, #708090, #525d69);
+    background-image: -ms-linear-gradient(top, #708090, #525d69);
+    background-image: -o-linear-gradient(top, #708090, #525d69);
+    background-image: linear-gradient(to bottom, #708090, #525d69);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #929ba3;
+    background-image: -webkit-linear-gradient(top, #929ba3, #708090);
+    background-image: -moz-linear-gradient(top, #929ba3, #708090);
+    background-image: -ms-linear-gradient(top, #929ba3, #708090);
+    background-image: -o-linear-gradient(top, #929ba3, #708090);
+    background-image: linear-gradient(to bottom, #929ba3, #708090);
+    text-decoration: none;
+  }
+
+p {
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+h1 {
+    margin-top: 10px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.6rem;
+    color: #282A3A;
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.top {
+    background-color: #708090;
+    padding-top: 50px;
+    position: relative;
+}
+.top_cloud {
+    position: absolute;
+    right: 300px;
+    top: auto;
+}
+
+.bottom_cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.middle-container {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.bottom-container {
+    background-color: slategrey;
+    padding: 50px 0 20px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: auto;
+    text-align: left;
+    margin: 100px auto;
+}
+
+.copyright {
+    color: lightgray;
+    font-size: .75rem;
+}
+
+.cooking {
+    float: left;
+    padding-right: 20px;
+    width: 150px;
+}
+
+.homer {
+    float: right;
+    padding-left: 20px;
+    width: 150px;
+}
+
+hr {
+    border-style: none;
+    border-top: dotted;
+    border-width: 10px;
+    color: darkgray;
+    width: 10%;
+    margin: 100px auto;
+    }
+
+h3 {
+    text-align: center;
+    color: slategrey;
+}
+
+.contact-msg {
+    width: 40%;
+    margin: 40px auto 60px;
+}
